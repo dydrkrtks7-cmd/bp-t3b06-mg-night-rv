@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://daeheung-coin-karaoke-note.best-seocho-karaoke.xyz/sitemap.xml
